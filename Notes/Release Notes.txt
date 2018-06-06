@@ -1,2 +1,3 @@
-Project Dependencies:
-06/06/2018: Dependent on PCB-Shared repository v1.0.0
+PREP400 PCB Release Notes:
+v1.0.0: Dependent on PCB-Shared repository v1.0.0
+v1.1.0: Dependent on PCB-Shared repository v1.0.0
