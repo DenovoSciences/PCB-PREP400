@@ -21,10 +21,10 @@
   )
 
   (layers
-    (0 F.Cu signal hide)
-    (1 In1.Cu mixed hide)
-    (2 In2.Cu mixed hide)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal)
+    (1 In1.Cu mixed)
+    (2 In2.Cu mixed)
+    (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -13472,6 +13472,7 @@
 
   (module logos:CELSEE_LOGO (layer F.Cu) (tedit 0) (tstamp 59322894)
     (at 219.4 138.05)
+    (attr smd)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
     )
