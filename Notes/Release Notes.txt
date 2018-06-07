@@ -3,3 +3,4 @@ Dependent on PCB-Shared repository v1.0.0
 v1.0.0: Initial release.
 v1.1.0: Scrubbed bom.
 v1.2.0:	Added expansion port connector for Genesis.
+v1.3.0: Added Celsee part numbers to components.
