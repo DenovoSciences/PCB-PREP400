@@ -1,5 +1,5 @@
 PREP400 PCB Release Notes:
-Dependent on PCB-Shared repository v1.0.0
+Dependent on PCB-Shared repository
 v1.0.0: Initial release.
 v1.1.0: Scrubbed bom.
 v1.2.0:	Added expansion port connector for Genesis.
